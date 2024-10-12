@@ -134,6 +134,16 @@ SickChill adalah aplikasi web open-source yang digunakan untuk melacak, mengelol
 ## Cara Pemakaian
 
 - Tampilan aplikasi web
+  Homepage
+  ![image](https://github.com/user-attachments/assets/94087f72-475d-4f63-b7fe-5fc4a78f64df)
+  Saat pertama kali mengakses SickChill, user akan diarahkan ke halaman utama yang menampilkan daftar acara TV yang sedang dikelola. Halaman ini memungkinkan user untuk memantau semua acara TV yang telah ditambahkan dan status episode mereka.
+  Details of Show
+  ![image](https://github.com/user-attachments/assets/22a317de-3a1b-4c61-bef2-939e68590615)
+  User dapat mengklik salah satu acara TV yang ditampilkan pada Homepage untuk melihat detail acara tersebut lebih lanjut.     - Halaman detail acara ini memungkinkan user untuk:
+   - Melihat daftar semua episode dalam satu atau beberapa musim.
+   - Memeriksa status unduhan dari setiap episode (misalnya: sudah diunduh, tersedia untuk diunduh, atau belum dirilis).
+   - Melihat informasi terkait seperti kualitas unduhan dan subtitle yang tersedia.
+
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
