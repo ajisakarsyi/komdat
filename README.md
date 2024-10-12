@@ -1,4 +1,4 @@
-# Komunikasi Data dan Jaringan Komputer - Deploy Aplikasi Web "**SickChill**" 🎥 
+# Komunikasi Data dan Jaringan Komputer - Deploy Aplikasi Web "*SickChill*" 🎥 
 
 ## Sekilas Tentang SickChill
 
