@@ -2,7 +2,7 @@
 
 ## Sekilas Tentang SickChill
 
-SickChill adalah alat keuangan pribadi berbasis lokal yang berbasis pada penganggaran zero-sum. Alat ini mendukung sinkronisasi lintas perangkat, aturan khusus, impor transaksi manual (dari berkas QIF, OFX, dan QFX), dan sinkronisasi otomatis opsional dengan banyak bank.
+SickChill adalah aplikasi web open-source yang digunakan untuk melacak, mengelola, dan mengunduh serial TV secara otomatis. Aplikasi ini dirancang untuk membantu pengguna mengikuti jadwal serial favorit mereka dengan mudah. SickChill mendukung berbagai platform torrent dan hoster untuk mengunduh konten yang diinginkan. Fitur utamanya meliputi pemindaian otomatis dari episode baru, kemampuan untuk memilih resolusi video, serta integrasi dengan sistem notifikasi yang memberikan update secara real-time terkait episode yang tersedia.
 
 ## Instalasi
 
