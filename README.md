@@ -217,19 +217,31 @@ https://github.com/SickChill/SickChill
 
   ![Screenshot 2024-10-12 171541](https://github.com/user-attachments/assets/4e2bd117-af9f-4ad4-85f3-2f9b109c89c8)
 
-  - Untuk menonton episode yang sudah tayang, klik simbol magnifying glass yang berada di sebelah kiri tombol plus di kanan halaman lalu tunggu beberapa detik.
+  - Untuk menonton episode yang sudah tayang, klik simbol magnifying glass yang berada di sebelah kiri tombol plus di kanan halaman lalu tunggu beberapa detik hingga menit.
 
   ![Screenshot 2024-10-12 171605](https://github.com/user-attachments/assets/d90117c1-aea3-4420-ad7f-7096b3f28b2a)
 
+  - Apabila sudah selesai menonton, status akan berubah menjadi “snatched”. Klik logo plus di paling kanan baris.
+
   ![Screenshot 2024-10-12 171926](https://github.com/user-attachments/assets/220c4e2d-6b4f-4ce5-b56c-0439ff327ca5)
+
+  - Pilih salah satu hasil pencarian kemudian pilih sesuai resolusi yang diinginkan
 
   ![Screenshot 2024-10-12 171944](https://github.com/user-attachments/assets/52b2dae1-7503-4028-bcc5-a83d95db11dc)
 
+  - Apabila sudah memilih, klik kanan tombol “https” dan inspect element.
+
   ![Screenshot 2024-10-12 172132](https://github.com/user-attachments/assets/aab07c39-3434-4344-b031-f48b8067f22e)
+
+  - Beberapa baris di atas akan menampilkan sebuah link torrent, copy link tersebut.
 
   ![Screenshot 2024-10-12 172159](https://github.com/user-attachments/assets/83489513-23b9-4f65-b83b-6bfa1460d4f3)
 
+  - Paste link tersebut di tab baru.
+
   ![Screenshot 2024-10-12 172209](https://github.com/user-attachments/assets/5c873970-e50d-452a-81ed-85b707ae4fe8)
+
+  - File torrent akan otomatis terdownload dan pencarian episode berhasil dilakukan. Selanjutnya bisa menggunakan provider torrent bebas untuk mendownload episodenya seperti uTorrent.
 
   ![Screenshot 2024-10-12 172218](https://github.com/user-attachments/assets/a4627a0a-0ee6-4d06-9f79-0d794da8c717)
 
