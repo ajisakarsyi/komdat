@@ -1,10 +1,8 @@
-# Aplikasi Web "ACTUAL"
+# Komunikasi Data dan Jaringan Komputer - Deploy Aplikasi Web "**SickChill**" 🎥 
 
+## Sekilas Tentang SickChill
 
-## Sekilas Tentang Actual
-
-Actual adalah alat keuangan pribadi berbasis lokal yang berbasis pada penganggaran zero-sum. Alat ini mendukung sinkronisasi lintas perangkat, aturan khusus, impor transaksi manual (dari berkas QIF, OFX, dan QFX), dan sinkronisasi otomatis opsional dengan banyak bank.
-
+SickChill adalah alat keuangan pribadi berbasis lokal yang berbasis pada penganggaran zero-sum. Alat ini mendukung sinkronisasi lintas perangkat, aturan khusus, impor transaksi manual (dari berkas QIF, OFX, dan QFX), dan sinkronisasi otomatis opsional dengan banyak bank.
 
 ## Instalasi
 
@@ -16,7 +14,7 @@ Actual adalah alat keuangan pribadi berbasis lokal yang berbasis pada penganggar
 - Docker dan Docker compose
 
 #### Proses Instalasi :
-1. Pastikan sudah memiliki docker dan docker compose dengan menjalankan code berikut. 
+1. Pastikan sudah memiliki docker dan docker compose dengan menjalankan kode berikut. 
     ```
     $ docker -v
     $ docker-compose -v
@@ -27,16 +25,11 @@ Actual adalah alat keuangan pribadi berbasis lokal yang berbasis pada penganggar
     $ sudo apt  install docker-compose
     ```
     
-2. Instalasi Actual. Terdapat dua cara untuk melakukan instalasi, yaitu menggunakan clone repository atau docker image
+2. Instalasi SickChill. Terdapat satu cara untuk melakukan instalasi, yaitu menggunakan docker image
    
-    Clone repository :
-    ```
-    $ git clone https://github.com/actualbudget/actual-server.git
-    ```
-    
     Pull dari docker image:
     ```
-    $ docker pull actualbudget/actual-server
+    $ docker pull linuxserver/sickchill
     ```
 
 3. Konfigurasi GCP :
@@ -50,9 +43,9 @@ Actual adalah alat keuangan pribadi berbasis lokal yang berbasis pada penganggar
     ```
     Untuk langkah konfigurasi, pilih opsi sesuai dengan yang diinginkan.
    - Pilih konfigurasi yang ada atau buat konfigurasi baru
-     Foto1
+     ![image](https://github.com/user-attachments/assets/f22e14e9-2f66-4e09-ba0f-25563ff16e57)
    - Pilih akun Google yang akan digunakan dan pilih proyek dari daftar proyek yang tersedia
-     Foto2
+     ![image](https://github.com/user-attachments/assets/7472f350-5e86-409d-b6dd-6212e29a9efc)
 4. Setelah menghubungkan Linux CLI dengan GCP, langkah berikutnya adalah membuat repository baru untuk Artifact Registry di GCP.
 
    Klik tombol + Create Repository yang terdapat di halaman Artifact Registry pada dashboard Google Cloud.
@@ -87,17 +80,17 @@ Actual adalah alat keuangan pribadi berbasis lokal yang berbasis pada penganggar
 
     Langkah pertama, menandai (tag) image tersebut dengan perintah berikut:
     ```
-    $ docker tag actualbudget/actual-server kdjk/pure-nectar-413300/actual
+    $ docker tag linuxserver/sickchill asia-southeast2-docker.pkg.dev/komdat-438111/komdat/sickchill
     ```
     Penjelasan:
-    - ```actualbudget/actual-server``` adalah nama folder berisi kode yang akan di-push.
-    - ```kdjk``` adalah nama repository di Artifact Registry.
-    - ```pure-nectar-413300``` adalah ID dari project di Google Cloud.
-    - ```actual``` adalah nama image yang sedang dibuat.
+    - ```linuxserver/sickchill``` adalah nama folder berisi kode yang akan di-push.
+    - ```asia-southeast2-docker.pkg.dev``` adalah nama repository di Artifact Registry.
+    - ```komdat-438111/komdat/``` adalah ID dari project di Google Cloud.
+    - ```sickchill``` adalah nama image yang sedang dibuat.
     
     Langkah selanjutnya, push image tersebut ke Artifact Registry menggunakan perintah:
     ```
-    $ docker push kdjk/pure-nectar-413300/actual
+    $ docker push asia-southeast2-docker.pkg.dev/komdat-438111/komdat/sickchill
     ```
 
     Bila anda tidak bisa melakukan push ke artifact registry, maka jalankan perintah berikut sebelum perintah push:
@@ -129,24 +122,21 @@ Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja ap
 - batas memori
 - dll
 
-Plugin untuk fungsi tambahan
+Plugin untuk fungsi tambahan:
 - login dengan Google/Facebook
 - editor Markdown
 - dll
 
-
-##  Maintenance (opsional)
+## Maintenance (opsional)
 
 Setting tambahan untuk maintenance secara periodik, misalnya:
 - buat backup database tiap pekan
 - hapus direktori sampah tiap hari
 - dll
 
-
 ## Otomatisasi (opsional)
 
 Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
-
 
 ## Cara Pemakaian
 
@@ -154,14 +144,12 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
-
 ## Pembahasan
 
-- Pendapat anda tentang aplikasi web ini
+- Pendapat anda tentang aplikasi web ini:
     - kelebihan
     - kekurangan
 - Bandingkan dengan aplikasi web lain yang sejenis
-
 
 ## Referensi
 
