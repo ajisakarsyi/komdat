@@ -25,7 +25,7 @@ SickChill adalah alat keuangan pribadi berbasis lokal yang berbasis pada pengang
     $ sudo apt  install docker-compose
     ```
     
-2. Instalasi SickChill. Terdapat satu cara untuk melakukan instalasi, yaitu menggunakan docker image
+2. Instalasi SickChill. Kita bisa menggunakan docker image pull untuk menginstallnya.
    
     Pull dari docker image:
     ```
