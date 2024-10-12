@@ -80,6 +80,10 @@ SickChill adalah alat keuangan pribadi berbasis lokal yang berbasis pada pengang
 
     Langkah pertama, menandai (tag) image tersebut dengan perintah berikut:
     ```
+    $ docker tag folder-to-be-pushed ARrepo/IDproj/imagename
+    ```
+    Disini, saya menggunakan perintah dibawah ini.
+    ```
     $ docker tag linuxserver/sickchill asia-southeast2-docker.pkg.dev/komdat-438111/komdat/sickchill
     ```
     Penjelasan:
@@ -89,6 +93,10 @@ SickChill adalah alat keuangan pribadi berbasis lokal yang berbasis pada pengang
     - ```sickchill``` adalah nama image yang sedang dibuat.
     
     Langkah selanjutnya, push image tersebut ke Artifact Registry menggunakan perintah:
+    ```
+    $ docker push ARrepo/IDproj/imagename
+    ```
+    Perintah yang saya gunakan sebagai berikut :
     ```
     $ docker push asia-southeast2-docker.pkg.dev/komdat-438111/komdat/sickchill
     ```
@@ -101,11 +109,11 @@ SickChill adalah alat keuangan pribadi berbasis lokal yang berbasis pada pengang
     
     Setelah proses push selesai, image akan muncul di Artifact Registry sesuai dengan detail yang telah ditentukan.
     
-   ![image](https://github.com/user-attachments/assets/efd2c65a-7bb7-4806-ac83-ed02d26f5c09)
+    ![image](https://github.com/user-attachments/assets/efd2c65a-7bb7-4806-ac83-ed02d26f5c09)
    
     Langkah terakhir, web dapat dideploy menggunakan Cloud Run dengan cara klik **Deploy Container**, pilih **Service**, lalu pilih **Container Image URL** yang sesuai. Pada "Authentication",  pilih "Allow unauthenticated invocations".
     
-   ![Screenshot 2024-10-11 231932](https://github.com/user-attachments/assets/d1d6c457-37ea-4863-87da-f39f0ecf443d)
+    ![Screenshot 2024-10-11 231932](https://github.com/user-attachments/assets/d1d6c457-37ea-4863-87da-f39f0ecf443d)
 
     Scroll halaman ke paling bawah hingga anda dapat melihat drop-down section "Container(s), Volumes, Networking, and Security". Isi "Container Port" dengan 8081.
 
@@ -113,11 +121,11 @@ SickChill adalah alat keuangan pribadi berbasis lokal yang berbasis pada pengang
 
     Nama Service akan terisi secara otomatis. Pilih region sesuai keinginan, disarankan untuk memilih yang paling dekat, yaitu ```asia-southeast2```. Biarkan opsi lainnya pada pengaturan default, lalu klik Create.
     
-   ![image](https://github.com/user-attachments/assets/6b2ced4c-4f79-4445-a06f-43ae0f90f897)
+    ![image](https://github.com/user-attachments/assets/6b2ced4c-4f79-4445-a06f-43ae0f90f897)
 
-   Tunggu hingga proses deployment selesai. Setelah itu, klik nama Service yang sudah dibuat. URL aplikasi akan muncul di bagian atas.
+    Tunggu hingga proses deployment selesai. Setelah itu, klik nama Service yang sudah dibuat. URL aplikasi akan muncul di bagian atas.
    
-   ![image](https://github.com/user-attachments/assets/01a473a9-12c1-432c-95b1-174ebdf774d0)
+    ![image](https://github.com/user-attachments/assets/01a473a9-12c1-432c-95b1-174ebdf774d0)
 
 ## Konfigurasi (opsional)
 
