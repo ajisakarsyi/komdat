@@ -219,9 +219,21 @@ SickChill mendukung berbagai penyedia pencarian (search providers) untuk menemuk
 ## Pembahasan
 
 - Pendapat anda tentang aplikasi web ini:
-    - kelebihan
-    - kekurangan
+    - Kelebihan :
+      - Dapat men-track shows yang sudah ditonton maupun ingin ditonton.
+      - Database terhubung ke berbagai website shows database (IMDb, TheTVDB, AniDB, dan lainnya).
+      - SickChill langsung menyediakan link torrent sehingga mempermudah pengguna untuk menonton episode tanpa harus surfing di website torrent secara manual.
+    - Kekurangan :
+      - User harus menambahkan show yang mereka ingin tonton terlebih dahulu.
+      - Post-processing default-nya tidak menggunakan local, sehingga dapat menyulitkan orang awam dalam penggunaannya.
+      - Apabila tidak digunakan untuk beberapa waktu yang lama, sesi berpotensi dapat berakhir dan menghapus shows yang telah ditambahkan.
 - Bandingkan dengan aplikasi web lain yang sejenis
+  - Sonarr :
+    - Pada Sonarr, penggunaan fiturnya jauh lebih mudah untuk digunakan dan lebih intuitif.
+    - Sonarr memiliki kemampuan untuk "babysit" query downloader secara aktif. Ini berarti apabila terdapat error pada post-processing, Sonarr akan otomatis mengalihkan proses pada query selanjutnya. SickChill harus dikonfigurasi secara manual.
+  - Medusa :
+    - Medusa cenderung beroperasi lebih cepat dan lancar.
+    - Medusa dapat menangani API problem dan memperbaiki key-nya sendiri, SickChill sering terjadi mismatch API key.
 
 ## Referensi
 
