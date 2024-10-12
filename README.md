@@ -113,7 +113,7 @@ SickChill adalah alat keuangan pribadi berbasis lokal yang berbasis pada pengang
 
     Nama Service akan terisi secara otomatis. Pilih region sesuai keinginan, disarankan untuk memilih yang paling dekat, yaitu ```asia-southeast2```. Biarkan opsi lainnya pada pengaturan default, lalu klik Create.
     
-   ![image](https://github.com/user-attachments/assets/ceb0af6f-34b4-4825-859c-74ecf80eafae)
+   ![image](https://github.com/user-attachments/assets/8865edbc-b18b-4c6c-9edd-a0696970df06)
    
    Tunggu hingga proses deployment selesai. Setelah itu, klik nama Service yang sudah dibuat. URL aplikasi akan muncul di bagian atas.
    
