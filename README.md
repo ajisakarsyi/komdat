@@ -242,7 +242,3 @@ https://github.com/SickChill/SickChill
   - Medusa :
     - Medusa cenderung beroperasi lebih cepat dan lancar.
     - Medusa dapat menangani API problem dan memperbaiki key-nya sendiri, SickChill sering terjadi mismatch API key.
-
-## Referensi
-
-Cantumkan tiap sumber informasi yang anda pakai.
