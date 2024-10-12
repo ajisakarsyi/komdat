@@ -4,6 +4,14 @@
 
 SickChill adalah aplikasi web open-source yang digunakan untuk melacak, mengelola, dan mengunduh serial TV secara otomatis. Aplikasi ini dirancang untuk membantu pengguna mengikuti jadwal serial favorit mereka dengan mudah. SickChill mendukung berbagai platform torrent dan hoster untuk mengunduh konten yang diinginkan. Fitur utamanya meliputi pemindaian otomatis dari episode baru, kemampuan untuk memilih resolusi video, serta integrasi dengan sistem notifikasi yang memberikan update secara real-time terkait episode yang tersedia.
 
+Berikut adalah website official dari SickChill :
+```
+https://sickchill.github.io/
+```
+```
+https://github.com/SickChill/SickChill
+```
+
 ## Instalasi
 
 #### Kebutuhan Sistem :
@@ -124,6 +132,11 @@ SickChill adalah aplikasi web open-source yang digunakan untuk melacak, mengelol
     Tunggu hingga proses deployment selesai. Setelah itu, klik nama Service yang sudah dibuat. URL aplikasi akan muncul di bagian atas.
    
     ![image](https://github.com/user-attachments/assets/01a473a9-12c1-432c-95b1-174ebdf774d0)
+
+   Berikut adalah tautan pada website hasil deploy self-host SickChill :
+   ```
+   https://sickchill-1-1074984779123.us-central1.run.app/home/
+   ```
 
 ## Maintenance
 
