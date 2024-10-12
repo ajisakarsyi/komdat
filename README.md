@@ -43,9 +43,7 @@ SickChill adalah aplikasi web open-source yang digunakan untuk melacak, mengelol
     ```
     Untuk langkah konfigurasi, pilih opsi sesuai dengan yang diinginkan.
    - Pilih konfigurasi yang ada atau buat konfigurasi baru
-     ![image](https://github.com/user-attachments/assets/f22e14e9-2f66-4e09-ba0f-25563ff16e57)
    - Pilih akun Google yang akan digunakan dan pilih proyek dari daftar proyek yang tersedia
-     ![image](https://github.com/user-attachments/assets/7472f350-5e86-409d-b6dd-6212e29a9efc)
 4. Setelah menghubungkan Linux CLI dengan GCP, langkah berikutnya adalah membuat repository baru untuk Artifact Registry di GCP.
 
    Klik tombol + Create Repository yang terdapat di halaman Artifact Registry pada dashboard Google Cloud.
@@ -134,18 +132,46 @@ SickChill adalah aplikasi web open-source yang digunakan untuk melacak, mengelol
 ## Cara Pemakaian
 
 - Tampilan aplikasi web
-  Homepage
+  **Homepage**
+  
   ![image](https://github.com/user-attachments/assets/94087f72-475d-4f63-b7fe-5fc4a78f64df)
+  
   Saat pertama kali mengakses SickChill, user akan diarahkan ke halaman utama yang menampilkan daftar acara TV yang sedang dikelola. Halaman ini memungkinkan user untuk memantau semua acara TV yang telah ditambahkan dan status episode mereka.
-  Details of Show
+  
+  **Details of Show**
+  
   ![image](https://github.com/user-attachments/assets/22a317de-3a1b-4c61-bef2-939e68590615)
+  
   User dapat mengklik salah satu acara TV yang ditampilkan pada Homepage untuk melihat detail acara tersebut lebih lanjut.     - Halaman detail acara ini memungkinkan user untuk:
    - Melihat daftar semua episode dalam satu atau beberapa musim.
    - Memeriksa status unduhan dari setiap episode (misalnya: sudah diunduh, tersedia untuk diunduh, atau belum dirilis).
    - Melihat informasi terkait seperti kualitas unduhan dan subtitle yang tersedia.
+**Schedule**
 
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
+![image](https://github.com/user-attachments/assets/a61ba09a-d753-4a2c-83b7-02e83ca5705e)
+
+SickChill juga menyediakan kalender pada halaman Schedule yang menampilkan jadwal episode yang akan datang. User dapat melihat kapan episode berikutnya dari acara TV favorit mereka akan tayang, sehingga tidak perlu lagi ketinggalan jadwal.
+
+**History**
+
+![image](https://github.com/user-attachments/assets/7d531c9d-63b2-4c69-abe1-335e2bf45524)
+
+Untuk membantu user melacak unduhan sebelumnya, SickChill menyediakan halaman History yang mencatat daftar riwayat semua episode yang telah diunduh atau diproses. User dapat melihat episode mana saja yang telah berhasil diunduh, serta waktu dan tanggal unduhan tersebut.
+
+**Add New Show**
+
+![image](https://github.com/user-attachments/assets/943d9028-3b38-428a-a136-dfc4dfe332d3)
+
+User dapat menambahkan daftar acara TV baru dengan mudah. User hanya perlu mencari acara yang diinginkan, memilih kualitas unduhan, dan menambahkannya ke dalam sistem pemantauan otomatis.
+
+**Search Providers**
+
+![image](https://github.com/user-attachments/assets/e66f35be-0c13-45b2-aa98-349c17d81368)
+
+SickChill mendukung berbagai penyedia pencarian (search providers) untuk menemukan sumber unduhan terbaik sesuai preferensi user. User dapat memilih dari daftar panjang penyedia torrent atau NZB yang mendukung pencarian episode acara TV favorit mereka.
+
+- Cara menonton episode di SickChill
+
 
 ## Pembahasan
 
