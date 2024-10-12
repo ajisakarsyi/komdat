@@ -1,4 +1,4 @@
-# Komunikasi Data dan Jaringan Komputer - Deploy Aplikasi Web "*SickChill*" 🎥 
+![image](https://github.com/user-attachments/assets/01a473a9-12c1-432c-95b1-174ebdf774d0)# Komunikasi Data dan Jaringan Komputer - Deploy Aplikasi Web "*SickChill*" 🎥 
 
 ## Sekilas Tentang SickChill
 
@@ -117,7 +117,7 @@ SickChill adalah alat keuangan pribadi berbasis lokal yang berbasis pada pengang
    
    Tunggu hingga proses deployment selesai. Setelah itu, klik nama Service yang sudah dibuat. URL aplikasi akan muncul di bagian atas.
    
-   ![image](https://github.com/user-attachments/assets/50c70126-70bc-453b-b63a-32936f28a16c)
+   ![image](https://github.com/user-attachments/assets/367084f9-835a-4944-99b8-014d1964eba7)
 
 ## Konfigurasi (opsional)
 
