@@ -185,36 +185,43 @@ https://github.com/SickChill/SickChill
   SickChill mendukung berbagai penyedia pencarian (search providers) untuk menemukan sumber unduhan terbaik sesuai preferensi user. User dapat memilih dari daftar panjang penyedia torrent atau NZB yang mendukung pencarian episode acara TV favorit mereka.
 
 - Cara menonton episode di SickChill
+  - Pada halaman utama, klik “check your settings” di bagian atas
 
-![Screenshot 2024-10-12 171052](https://github.com/user-attachments/assets/9511dda3-f12a-41e6-ab0d-f9b10e2e1282)
+  ![Screenshot 2024-10-12 171052](https://github.com/user-attachments/assets/9511dda3-f12a-41e6-ab0d-f9b10e2e1282)
 
-![Screenshot 2024-10-12 171122](https://github.com/user-attachments/assets/9635d89c-c2cd-4888-8978-b16f6af4e978)
+  - Checklist kotak “enable NZB search providers”, tetapkan direktorinya di “cache”, kemudian simpan pengaturan dengan mengklik “Save Changes” di bagian kiri bawah.
 
-![Screenshot 2024-10-12 171132](https://github.com/user-attachments/assets/581ce0fe-ed28-40d3-970f-d98c8ba33802)
+  ![Screenshot 2024-10-12 171122](https://github.com/user-attachments/assets/9635d89c-c2cd-4888-8978-b16f6af4e978)
 
-![Screenshot 2024-10-12 171156](https://github.com/user-attachments/assets/4a1abb63-c32f-4840-a9ae-7a9724b8034d)
+  - Checklist kotak “enable torrent search providers”, tetapkan direktorinya di “cache”, kemudian simpan pengaturan lagi dengan mengklik “Save Changes” di kiri bawah.
 
-![Screenshot 2024-10-12 171242](https://github.com/user-attachments/assets/1f446b81-9e17-4c7b-a85c-d004617cf610)
+  ![Screenshot 2024-10-12 171132](https://github.com/user-attachments/assets/581ce0fe-ed28-40d3-970f-d98c8ba33802)
 
-![Screenshot 2024-10-12 171319](https://github.com/user-attachments/assets/30c6ff12-b13a-42c1-bac5-377111cdd19e)
+  - Klik lagi “check your settings”. Setelah diarahkan ke halaman Search Providers, checklist providers yang diinginkan (checklist semua providers jika tidak ada yang diketahui), lalu klik “Save Changes” lagi untuk menyimpan.
 
-![Screenshot 2024-10-12 171500](https://github.com/user-attachments/assets/de58749a-cba6-4d2c-93b0-363a011c4771)
+  ![Screenshot 2024-10-12 171156](https://github.com/user-attachments/assets/4a1abb63-c32f-4840-a9ae-7a9724b8034d)
 
-![Screenshot 2024-10-12 171541](https://github.com/user-attachments/assets/4e2bd117-af9f-4ad4-85f3-2f9b109c89c8)
+  ![Screenshot 2024-10-12 171242](https://github.com/user-attachments/assets/1f446b81-9e17-4c7b-a85c-d004617cf610)
 
-![Screenshot 2024-10-12 171605](https://github.com/user-attachments/assets/d90117c1-aea3-4420-ad7f-7096b3f28b2a)
+  ![Screenshot 2024-10-12 171319](https://github.com/user-attachments/assets/30c6ff12-b13a-42c1-bac5-377111cdd19e)
 
-![Screenshot 2024-10-12 171926](https://github.com/user-attachments/assets/220c4e2d-6b4f-4ce5-b56c-0439ff327ca5)
+  ![Screenshot 2024-10-12 171500](https://github.com/user-attachments/assets/de58749a-cba6-4d2c-93b0-363a011c4771)
 
-![Screenshot 2024-10-12 171944](https://github.com/user-attachments/assets/52b2dae1-7503-4028-bcc5-a83d95db11dc)
+  ![Screenshot 2024-10-12 171541](https://github.com/user-attachments/assets/4e2bd117-af9f-4ad4-85f3-2f9b109c89c8)
 
-![Screenshot 2024-10-12 172132](https://github.com/user-attachments/assets/aab07c39-3434-4344-b031-f48b8067f22e)
+  ![Screenshot 2024-10-12 171605](https://github.com/user-attachments/assets/d90117c1-aea3-4420-ad7f-7096b3f28b2a)
 
-![Screenshot 2024-10-12 172159](https://github.com/user-attachments/assets/83489513-23b9-4f65-b83b-6bfa1460d4f3)
+  ![Screenshot 2024-10-12 171926](https://github.com/user-attachments/assets/220c4e2d-6b4f-4ce5-b56c-0439ff327ca5)
 
-![Screenshot 2024-10-12 172209](https://github.com/user-attachments/assets/5c873970-e50d-452a-81ed-85b707ae4fe8)
+  ![Screenshot 2024-10-12 171944](https://github.com/user-attachments/assets/52b2dae1-7503-4028-bcc5-a83d95db11dc)
 
-![Screenshot 2024-10-12 172218](https://github.com/user-attachments/assets/a4627a0a-0ee6-4d06-9f79-0d794da8c717)
+  ![Screenshot 2024-10-12 172132](https://github.com/user-attachments/assets/aab07c39-3434-4344-b031-f48b8067f22e)
+
+  ![Screenshot 2024-10-12 172159](https://github.com/user-attachments/assets/83489513-23b9-4f65-b83b-6bfa1460d4f3)
+
+  ![Screenshot 2024-10-12 172209](https://github.com/user-attachments/assets/5c873970-e50d-452a-81ed-85b707ae4fe8)
+
+  ![Screenshot 2024-10-12 172218](https://github.com/user-attachments/assets/a4627a0a-0ee6-4d06-9f79-0d794da8c717)
 
 
 ## Pembahasan
