@@ -127,28 +127,9 @@ SickChill adalah aplikasi web open-source yang digunakan untuk melacak, mengelol
    
     ![image](https://github.com/user-attachments/assets/01a473a9-12c1-432c-95b1-174ebdf774d0)
 
-## Konfigurasi (opsional)
+## Maintenance
 
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
-- dll
-
-Plugin untuk fungsi tambahan:
-- login dengan Google/Facebook
-- editor Markdown
-- dll
-
-## Maintenance (opsional)
-
-Setting tambahan untuk maintenance secara periodik, misalnya:
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
-- dll
-
-## Otomatisasi (opsional)
-
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
+- Apabila ingin menggunakan sesi SickChill baru, disarankan untuk menghapus semua folder tambahan seperti cache agar kembali bersih.
 
 ## Cara Pemakaian
 
