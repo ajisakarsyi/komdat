@@ -103,10 +103,14 @@ SickChill adalah alat keuangan pribadi berbasis lokal yang berbasis pada pengang
     
    ![image](https://github.com/user-attachments/assets/efd2c65a-7bb7-4806-ac83-ed02d26f5c09)
    
-    Langkah terakhir, web dapat dideploy menggunakan Cloud Run dengan cara klik **Deploy Container**, pilih **Service**, lalu pilih **Container Image URL** yang sesuai.
+    Langkah terakhir, web dapat dideploy menggunakan Cloud Run dengan cara klik **Deploy Container**, pilih **Service**, lalu pilih **Container Image URL** yang sesuai. Pada "Authentication",  pilih "Allow unauthenticated invocations".
     
    ![Screenshot 2024-10-11 231932](https://github.com/user-attachments/assets/d1d6c457-37ea-4863-87da-f39f0ecf443d)
-   
+
+    Scroll halaman ke paling bawah hingga anda dapat melihat drop-down section "Container(s), Volumes, Networking, and Security". Isi "Container Port" dengan 8081.
+
+    ![Screenshot 2024-10-12 103954](https://github.com/user-attachments/assets/493cc493-c658-41a6-a091-bca89c40892d)
+
     Nama Service akan terisi secara otomatis. Pilih region sesuai keinginan, disarankan untuk memilih yang paling dekat, yaitu ```asia-southeast2```. Biarkan opsi lainnya pada pengaturan default, lalu klik Create.
     
    ![image](https://github.com/user-attachments/assets/ceb0af6f-34b4-4825-859c-74ecf80eafae)
