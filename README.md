@@ -201,13 +201,23 @@ https://github.com/SickChill/SickChill
 
   ![Screenshot 2024-10-12 171156](https://github.com/user-attachments/assets/4a1abb63-c32f-4840-a9ae-7a9724b8034d)
 
+  - Arahkan kursor ke tab “Show”, pilih “Add Shows”, lalu klik “Add New Show”.
+
   ![Screenshot 2024-10-12 171242](https://github.com/user-attachments/assets/1f446b81-9e17-4c7b-a85c-d004617cf610)
+
+  - Ketik nama show yang ingin dicari pada kolom “Show name”, klik “Search” kemudian cari pada tabel “#2 Pick a Show”. Pilih resolusi dan format yang diinginkan lalu klik “Add Show”.
 
   ![Screenshot 2024-10-12 171319](https://github.com/user-attachments/assets/30c6ff12-b13a-42c1-bac5-377111cdd19e)
 
+  - Kembali ke halaman utama. Show yang sudah ditambahkan tadi akan terlihat pada halaman utama, kemudian klik show tersebut.
+
   ![Screenshot 2024-10-12 171500](https://github.com/user-attachments/assets/de58749a-cba6-4d2c-93b0-363a011c4771)
 
+  - Selanjutnya akan ditampilkan list-list episode yang sudah pernah tayang dan terkonfirmasi akan tayang.
+
   ![Screenshot 2024-10-12 171541](https://github.com/user-attachments/assets/4e2bd117-af9f-4ad4-85f3-2f9b109c89c8)
+
+  - Untuk menonton episode yang sudah tayang, klik simbol magnifying glass yang berada di sebelah kiri tombol plus di kanan halaman lalu tunggu beberapa detik.
 
   ![Screenshot 2024-10-12 171605](https://github.com/user-attachments/assets/d90117c1-aea3-4420-ad7f-7096b3f28b2a)
 
