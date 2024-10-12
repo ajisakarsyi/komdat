@@ -112,7 +112,7 @@ Actual adalah alat keuangan pribadi berbasis lokal yang berbasis pada penganggar
    
     Langkah terakhir, web dapat dideploy menggunakan Cloud Run dengan cara klik **Deploy Container**, pilih **Service**, lalu pilih **Container Image URL** yang sesuai.
     
-   ![image](https://github.com/user-attachments/assets/4917e84c-261e-4cbb-8cf0-61952b195ce1)
+   ![Screenshot 2024-10-11 231932](https://github.com/user-attachments/assets/d1d6c457-37ea-4863-87da-f39f0ecf443d)
    
     Nama Service akan terisi secara otomatis. Pilih region sesuai keinginan, disarankan untuk memilih yang paling dekat, yaitu ```asia-southeast2```. Biarkan opsi lainnya pada pengaturan default, lalu klik Create.
     
